@@ -1,0 +1,37 @@
+body {
+    background-color: #e8cfcf;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* class selector */
+.junior {
+    
+    color: #df1623;
+    font-size: 20px;
+}
+
+/* id selector */
+#name {
+    font-size: 24px;
+    color: #ea0e0e;
+    font-weight: bold;
+}
+
+/* card styling */
+.card {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 100px;
+    margin: 20px;
+}
+
+/* button hover effect */
+button {
+    background-color: #f27885;
+}
+
+button:hover {
+    background-color: #df1623;
+    color: #ffffff;
+}
